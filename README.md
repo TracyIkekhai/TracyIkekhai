@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My name is Tracy Ikekhai
 
-## I am an Data Analysis trainee
+## I am an Data Analyst trainee
 
 -  🔭 I am a trainee in data analysis with a background in Computer Science, who is willing and ready to dive into the fascinating world of data-driven insights and decision-making. My love for analyzing, visualizing data has spurred me and motivated me to learning data Analysis.
 -  🌱 I am currently good with data cleaning,analyzing and visualizing data. I have worked on simple projects but I'm presently working on some more challenging projects to  enhance my growth.  
