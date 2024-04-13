@@ -10,5 +10,4 @@
 -  •	💬 Ask me about anything on Data using Excel, I will respond immediately. Although I am presently being trained in other Data Analysis tools. 
 -  📫 You can get in touch with me [linkedin](https://www.linkedin.com/in/tracy-ikekhai-3a979238/)
 -  😄 Pronouns: She
--  ⚡ Fun fact: I have taught students how to use Microsoft office softwares especially Excel. I love to learn new things, this has been my driving force to keep on upskilling in tech.
--->
+-  ⚡ Fun fact: I have taught students how to use Microsoft office softwares especially Excel. I love to learn new things, this has been my driving force to keep on upskilling in tech. 
